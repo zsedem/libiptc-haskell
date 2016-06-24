@@ -2,6 +2,7 @@ module IPTC.Data
   ( iptcDataNewFromData
   , iptcDataGetDataset
   , iptcDataGetNextDataset
+  , IPTCData
   ) where
 import IPTC.DataSet
 import IPTC.Record
